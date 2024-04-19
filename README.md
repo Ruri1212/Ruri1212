@@ -39,12 +39,6 @@
 <img src="https://img.shields.io/badge/-ubuntu-E95420.svg?logo=ubuntu&style=for-the-badge&logoColor=ffffff" />
 </div>
 
-### Others
-
-<div>
-<img src="https://img.shields.io/badge/-prisma-2D3748.svg?logo=prisma&style=for-the-badge&logoColor=ffffff" />
-</div>
-
 ## Stats
 
 <div>
