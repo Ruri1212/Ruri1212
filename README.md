@@ -34,6 +34,7 @@
 
 <div>
 <img src="https://img.shields.io/badge/-visual_studio_code-007ACC.svg?logo=visualstudiocode&style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-prisma-2D3748.svg?logo=prisma&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-unity-000000.svg?logo=unity&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-ubuntu-E95420.svg?logo=ubuntu&style=for-the-badge&logoColor=ffffff" />
 </div>
@@ -42,14 +43,6 @@
 
 <div>
 <img src="https://img.shields.io/badge/-prisma-2D3748.svg?logo=prisma&style=for-the-badge&logoColor=ffffff" />
-</div>
-
-## Learning / Will Learn
-
-<div>
-<img src="https://img.shields.io/badge/-docker-2496ED.svg?logo=docker&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-firebase-FFCA28.svg?logo=firebase&style=for-the-badge&color=000" />
-<img src="https://img.shields.io/badge/-flutter-02569B.svg?logo=flutter&style=for-the-badge&logoColor=ffffff" />
 </div>
 
 ## Stats
