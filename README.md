@@ -57,6 +57,6 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=Ruri1212&style=for-the-badge&abbreviated=tru" />
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Ruri1212?style=for-the-badge&color=green" />
-<a href="https://atcoder.jp/users/Ruri1212itc?contestType=algo"><img src="https://badgen.org/img/atcoder/Ruri1212itc/rating/algorithm?style=for-the-badge&label=AtCoder" alt="Rating" /></a>
+<a href="https://atcoder.jp/users/Ruri1212?contestType=algo"><img src="https://badgen.org/img/atcoder/Ruri1212/rating/algorithm?style=for-the-badge&label=AtCoder" alt="Rating" /></a>
 </div>
 
