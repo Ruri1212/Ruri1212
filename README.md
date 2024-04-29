@@ -48,7 +48,7 @@
 <img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/repos-per-language?username=Ruri1212&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/most-commit-language?username=Ruri1212&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/productive-time?username=Ruri1212&theme=tokyonight&utcOffset=9" />
-<img src="https://github-profile-trophy.vercel.app/?username=kage1020&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ruri1212&theme=tokyonight" />
 </div>
 <br />
 
@@ -56,6 +56,6 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=Ruri1212&style=for-the-badge&abbreviated=tru" />
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Ruri1212?style=for-the-badge&color=green" />
-<a href="https://atcoder.jp/users/Ruri1212?contestType=algo"><img src="https://badgen.org/img/atcoder/Ruri1212/rating/algorithm?style=for-the-badge&label=AtCoder" alt="Rating" /></a>
+<a href="https://atcoder.jp/users/ganbarumasu?contestType=algo"><img src="https://badgen.org/img/atcoder/ganbarumasu/rating/algorithm?style=for-the-badge&label=AtCoder" alt="Rating" /></a>
 </div>
 
