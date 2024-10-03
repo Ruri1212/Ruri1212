@@ -43,12 +43,11 @@
 ## Stats
 
 <div>
-<img height="200" src="https://github-readme-stats-kage1020.vercel.app/api?username=Ruri1212&theme=tokyonight&show_icons=true" />
-<img height="200" src="https://github-readme-stats-kage1020.vercel.app/api/top-langs?username=Ruri1212&theme=tokyonight&size_weight=0.1&count_weight=0.9&layout=compact" />
-<img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/repos-per-language?username=Ruri1212&theme=tokyonight" />
-<img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/most-commit-language?username=Ruri1212&theme=tokyonight" />
-<img height="200" src="https://github-profile-summary-cards-kage1020.vercel.app/api/cards/productive-time?username=Ruri1212&theme=tokyonight&utcOffset=9" />
-<img src="https://github-profile-trophy.vercel.app/?username=Ruri1212&theme=tokyonight" />
+<img height="200" src="https://github-readme-stats-kage1020s-projects.vercel.app/api?username=Ruri1212&theme=tokyonight&show_icons=true" />
+<img height="200" src="https://github-readme-stats-kage1020s-projects.vercel.app/api/top-langs?username=Ruri1212&theme=tokyonight&size_weight=0.1&count_weight=0.9&layout=compact" />   
+<img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/repos-per-language?username=Ruri1212&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/most-commit-language?username=Ruri1212&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/productive-time?username=Ruri1212&theme=tokyonight&utcOffset=9" />
 </div>
 <br />
 
