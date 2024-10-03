@@ -48,6 +48,7 @@
 <img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/repos-per-language?username=Ruri1212&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/most-commit-language?username=Ruri1212&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards-kage1020s-projects.vercel.app/api/cards/productive-time?username=Ruri1212&theme=tokyonight&utcOffset=9" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ruri1212&theme=tokyonight" />
 </div>
 <br />
 
